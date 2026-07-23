@@ -1,0 +1,4 @@
+abc
+   git add .
+   git commit -m "Add Pydantic validation to bulletin input"
+   git push origin main
